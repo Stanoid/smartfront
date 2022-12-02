@@ -1,0 +1,27 @@
+html {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+table {
+  border: 1px solid lightgray;
+ 
+}
+
+tbody {
+  border-bottom: 0px solid lightgray;
+}
+
+th {
+  border-bottom: 0px solid lightgray;
+  border-right: 0px solid lightgray;
+  padding: 2px 4px;
+}
+
+tfoot {
+  color: gray;
+}
+
+tfoot th {
+  font-weight: normal;
+}
